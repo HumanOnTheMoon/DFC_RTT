@@ -1,0 +1,16 @@
+rtt01\mem.o: ../Middlewares/Third_Party/RealThread_RTOS/src/mem.c
+rtt01\mem.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rthw.h
+rtt01\mem.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtthread.h
+rtt01\mem.o: ../RT-Thread/rtconfig.h
+rtt01\mem.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_config.h
+rtt01\mem.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdebug.h
+rtt01\mem.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtdef.h
+rtt01\mem.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+rtt01\mem.o: ../Middlewares/Third_Party/RealThread_RTOS/include/rtservice.h
+rtt01\mem.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh_api.h
+rtt01\mem.o: ../Middlewares/Third_Party/RealThread_RTOS/finsh/finsh.h
+rtt01\mem.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+rtt01\mem.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+rtt01\mem.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+rtt01\mem.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+rtt01\mem.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
